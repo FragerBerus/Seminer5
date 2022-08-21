@@ -1,0 +1,15 @@
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.8. Seminar5\Example035\obj\Debug\net6.0\Example035.csproj.AssemblyReference.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.8. Seminar5\Example035\obj\Debug\net6.0\Example035.GeneratedMSBuildEditorConfig.editorconfig
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.8. Seminar5\Example035\obj\Debug\net6.0\Example035.AssemblyInfoInputs.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.8. Seminar5\Example035\obj\Debug\net6.0\Example035.AssemblyInfo.cs
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.8. Seminar5\Example035\obj\Debug\net6.0\Example035.csproj.CoreCompileInputs.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.8. Seminar5\Example035\bin\Debug\net6.0\Example035.exe
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.8. Seminar5\Example035\bin\Debug\net6.0\Example035.deps.json
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.8. Seminar5\Example035\bin\Debug\net6.0\Example035.runtimeconfig.json
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.8. Seminar5\Example035\bin\Debug\net6.0\Example035.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.8. Seminar5\Example035\bin\Debug\net6.0\Example035.pdb
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.8. Seminar5\Example035\obj\Debug\net6.0\Example035.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.8. Seminar5\Example035\obj\Debug\net6.0\refint\Example035.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.8. Seminar5\Example035\obj\Debug\net6.0\Example035.pdb
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.8. Seminar5\Example035\obj\Debug\net6.0\Example035.genruntimeconfig.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.8. Seminar5\Example035\obj\Debug\net6.0\ref\Example035.dll
